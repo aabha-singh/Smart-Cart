@@ -1,5 +1,3 @@
-# Smart-Cart
-A React-based e-commerce UI with search, filter, and cart functionality.
 # 🛒 SmartCart - React E-commerce UI
 
 ## 🚀 Project Overview
